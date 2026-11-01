@@ -37,14 +37,3 @@ Server terikat ke 127.0.0.1:3000. Frontend memakai proxy Vite sehingga tidak
 memerlukan CORS untuk menjalankan kedua repository di komputer yang sama.
 
 ## Membuat repository Git
-
-Buat repository GitHub kosong bernama `todo-api`, kemudian jalankan:
-
-```sh
-git init
-git add .
-git commit -m "Initial backend API"
-git branch -M main
-git remote add origin https://github.com/USERNAME/todo-api.git
-git push -u origin main
-```
