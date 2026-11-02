@@ -35,5 +35,3 @@ Kode utama: `src/index.ts`. Data disimpan dalam Map, sehingga hilang saat
 server restart. Proyek pembelajaran lokal, tanpa autentikasi/database.
 Server terikat ke 127.0.0.1:3000. Frontend memakai proxy Vite sehingga tidak
 memerlukan CORS untuk menjalankan kedua repository di komputer yang sama.
-
-## Membuat repository Git
